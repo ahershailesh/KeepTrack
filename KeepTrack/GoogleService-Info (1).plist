@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>872212601512-rj2ad7p6v4b7j00iuh81tpn34i1evdbf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.872212601512-rj2ad7p6v4b7j00iuh81tpn34i1evdbf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBusHuomHQYUDMVdrNcRJC4oN7az2LpnTE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>872212601512</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shailesh.aher.KeepTrack</string>
+	<key>PROJECT_ID</key>
+	<string>keeptrack-b4c6a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>keeptrack-b4c6a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:872212601512:ios:13124e860751a062cdc09d</string>
+	<key>DATABASE_URL</key>
+	<string>https://keeptrack-b4c6a.firebaseio.com</string>
+</dict>
+</plist>
